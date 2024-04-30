@@ -58,14 +58,11 @@ Some of the most popular machine learning algorithms for creating text classific
 Data Sources to solve problem
 ---
 * Data Sets from any open source data sources can be used. Model building and solution engineering is NOT restricted to data.
-* Example:
- 1. https://ai.stanford.edu/~amaas/data/sentiment/
- 2. https://data.world/crowdflower/sentiment-analysis-in-text
- 3. https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
 
 #### Test Accuracy achieved with IMDB dataset using following algorithms:
-- RNN- 2 LSTM Layers: 85.24% : https://colab.research.google.com/drive/1LR0vlfJLbw_e2ECeICkKOqGY7PtiKm7z
-- RNN- 1 LSTM Layer: 85.49% : https://colab.research.google.com/drive/1peyWG5zP9R3eJdnkw9TZihc6imyenqXo
-- Pre-processed Text: 85.5% : https://colab.research.google.com/drive/1PulJf43YSeGEI0FHb5pAU5nMkvZtcFwF
+- RNN- 2 LSTM Layers: 85.24% 
+- RNN- 1 LSTM Layer: 85.49% 
+- Pre-processed Text: 85.5% 
 - TF (Keras) Hub Layer: 84.9%
 
